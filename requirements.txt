@@ -1,0 +1,4 @@
+psutil
+opencv-python
+watchdog
+sqlalchemy
